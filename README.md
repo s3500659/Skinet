@@ -23,3 +23,4 @@ Programming tools and concepts used to build this app:
 - Middleware for serving static content from API
 - Swagger
 - Extensions
+- Sorting
