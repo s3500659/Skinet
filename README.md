@@ -2,7 +2,7 @@
 Skinet is a proof of concept e-commerce store built using Angular, .Net Core and Stripe for payment processing.
 
 Programming tools and concepts used to build this app:
-- 
+
 - CLI
 - Multiple projects
 - Entity framework
@@ -21,3 +21,5 @@ Programming tools and concepts used to build this app:
 - AutoMapper
 - DTO
 - Middleware for serving static content from API
+- Swagger
+- Extensions
