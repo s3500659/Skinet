@@ -7,9 +7,9 @@ Programming tools and concepts used to build this app:
 - Multiple projects
 - Entity framework
 - Postman
-- VS Code
+- Visual Studio
 - SQL Lite
-- API
+- API Development
 - Routing
 - Interface
 - Database migrations
